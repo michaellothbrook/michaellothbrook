@@ -41,4 +41,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaellothbrook" alt="michaellothbrook" /> </p>
 
-<img align="center" width="100%" alt="Michael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaellothbrook&show_icons=true&hide_border=true" />
+<img align="center" alt="Michael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaellothbrook&show_icons=true&hide_border=true" />
