@@ -23,14 +23,16 @@
 <img  alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-original.svg" alt="css3" width="40" height="40"/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="l" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,4 +44,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaellothbrook" alt="michaellothbrook" /> </p>
 
-<img align="center" alt="Michael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaellothbrook&show_icons=true&hide_border=true" />
+<img align="center" width="100%" alt="Michael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaellothbrook&show_icons=true&hide_border=true" />
